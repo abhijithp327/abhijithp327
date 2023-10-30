@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **abhijithp327@gmail.com**
 
-- <a href="https://abhijith-portfolio-omega.vercel.app/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="">Vist my portfolio</a>
+- Visit my portfolio <a href="https://abhijith-portfolio-omega.vercel.app/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt=""> my portfolio</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
