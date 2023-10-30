@@ -13,6 +13,8 @@
 
 - 📫 How to reach me **abhijithp327@gmail.com**
 
+- <p align="left"> <a href="https://abhijith-portfolio-omega.vercel.app/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/abhijith-p-64b13820a?lipi=urn%3ali%3apage%3ad_flagship3_messaging_conversation_detail%3basflpi7cr%2fcf2zaq%2f3rkhg%3d%3d" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/abhijith-p-64b13820a?lipi=urn%3ali%3apage%3ad_flagship3_messaging_conversation_detail%3basflpi7cr%2fcf2zaq%2f3rkhg%3d%3d" height="30" width="40" /></a>
